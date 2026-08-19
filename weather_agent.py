@@ -5,8 +5,6 @@ from langfuse import observe
 from langfuse.openai import openai
 import os
 from openai import OpenAI
-
-
 from langsmith import traceable
 load_dotenv()
 
