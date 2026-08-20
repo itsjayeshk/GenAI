@@ -89,7 +89,7 @@ print("Connected to Qdrant collection")
 # 6. User Question
 # --------------------------------------------------
 
-question = "What is the year of the student?"
+question = "What is the city of the student?"
 
 
 # --------------------------------------------------
